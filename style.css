@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+.section-header{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.section-body-image{
+    display: flex;
+    flex-direction: ;
+    width: 120px;
+    height: 100px;
+}
+.section-body-nav{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.section-body-titile{
+    display: flex;
+    justify-content: center;
+  
+   
+}
+
+.section-body-button {
+    display: flex;
+    justify-content: center;
+      
+    
+}
+.section-body-button button{
+    background-color: red;
+    border-radius: 10px;
+    width: 100px;
+    margin-top: 10px;
+
+}
+.section-body-image{
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+
+}
+.section-body-image img{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.wrapper{
+    background-color: rgb(50, 105, 207);
+}
+
+/* section end */
+
+.forma{
+  display: flex;
+  justify-content: center;
+  margin: 30px; 
+}
+
+form{
+    padding: 30px;
+    background-color: rgb(39, 69, 240);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;    
+    width: 360px;
+    text-shadow: 0 0 10px rgb(26, 0, 143);
+}
+.form-head>img{
+    width: 60px;
+    height: 60px;
+    border-radius:50% ;
+    
+}
+form .form-head{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.form-body{
+    text-align: center;    
+}
+.form-body input{
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding: 5px 20px;
+}
+
+.radio{
+    padding: 10px 10px;
+    font-size: 30px;
+}
+.button{
+    
+}1
